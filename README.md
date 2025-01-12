@@ -25,10 +25,41 @@ However, due to some technical difficulties, we were not able to correctly recei
 - Point-to-point communication using SDR technology
 - Successful transmission of image and audio files
 - Hands-on experience with BladeRF 2.0 micro xA9 and RTL-SDR
+- Usage of Octave, Pyton and GNU Radio
+
+## Software Used
+- **Python**: Used for encryption purposes, ensuring the security of the transmitted data.
+- **Octave**: Used for packetization, allowing data to be properly formatted for transmission.
+- **GNU Radio**: Used for signal processing and transmission of the data through the wireless communication system.
+
+## Architecture
+### Transmitter Design
+<div align="center">
+  <img src="Images/Transmitter.jpg" alt="Transmitter" width="700">
+</div>
+
+### Receiver Design
+<div align="center">
+  <img src="Images/Receiver.jpg" alt="Receiver" width="700">
+</div>
+
+### Monochrome Image Transmission
+<p float="left">
+  <img src="Images/Image_Rx.jpg" width="45%" />
+  <img src="Images/Image_Tx.jpg" width="45%" />
+</p>
+
+### Binary Data Stream Transmission
+<p float="left">
+  <img src="Images/Bin_Stream_RX.jpg" width="45%" />
+  <img src="Images/Bin_Stream_Tx.jpg" width="45%" />
+</p>
+
+### Audio Transmission
+<p float="left">
+  <img src="Images/Audio_RX.jpg" width="45%" />
+  <img src="Images/Audio_Tx.jpg" width="45%" />
+</p>
 
 ## Conclusion
-This project demonstrates the practical application of digital communication concepts, signal processing techniques, and SDR technology. It highlights the importance of troubleshooting and refining complex systems, with the aim of further improving the reliability of data transmission in future work.
-
-## Archives
-
-
+This project helped us apply communication and signal processing concepts in real-world systems. It also gave us hands-on experience with SDR technology, and we learned a lot about troubleshooting and improving system reliability.
