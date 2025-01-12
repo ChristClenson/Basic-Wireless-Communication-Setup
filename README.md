@@ -44,20 +44,20 @@ However, due to some technical difficulties, we were not able to correctly recei
 </div>
 
 ### Monochrome Image Transmission
-<p float="left">
+<p float="center">
   <img src="Images/Image_Rx.jpg" width="45%" />
   <img src="Images/Image_Tx.jpg" width="45%" />
 </p>
 
 ### Binary Data Stream Transmission
-<p float="left">
+<p float="center">
   <img src="Images/Bin_Stream_RX.jpg" width="45%" />
   <img src="Images/Bin_Stream_Tx.jpg" width="45%" />
 </p>
 
 ### Audio Transmission
-<p float="left">
-  <img src="Images/Audio_RX.jpg" width="45%" />
+<p float="center">
+  <img src="Images/Audio_Rx.jpg" width="45%" />
   <img src="Images/Audio_Tx.jpg" width="45%" />
 </p>
 
